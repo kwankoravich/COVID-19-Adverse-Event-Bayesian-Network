@@ -1,0 +1,7 @@
+numpy 
+pandas
+sklearn
+matplotlib.pyplot
+pybbn
+pymc3
+networkx
