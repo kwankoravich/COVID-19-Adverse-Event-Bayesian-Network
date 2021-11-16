@@ -1,6 +1,6 @@
 ### This function would find the symptoms in each patient. 
-If the patiens have the symptoms, we will assign in which column as 1. 
-Otherwise it's assigned as 0 ###
+### If the patiens have the symptoms, we will assign in which column as 1. 
+### Otherwise it's assigned as 0 
 
 
 def binary_form(df):
